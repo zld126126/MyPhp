@@ -1,6 +1,3 @@
-# PHP_Demo
-# ´ømysql¼òÒ×ÔöÉ¾¸Ä²é ºÍ PHPÃæÏò¶ÔÏó
-
-1.°²×°Wampserver64
-2.°Ñindex.phpµÈ·ÅÈëwwwÎÄ¼þ¼ÐÖÐ
-3.ÔËÐÐ³ÌÐò
+# my php
+## Demo -- phpç»ƒä¹ 
+## ThinkPhp -- thinkphp æºæ–‡ä»¶/çŽ¯å¢ƒ
